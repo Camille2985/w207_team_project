@@ -4,11 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac428e51-3c8f-47cc-a9b2-5b1e9f55eb01" name="Changes" comment="" />
+    <list default="true" id="ac428e51-3c8f-47cc-a9b2-5b1e9f55eb01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/Berkeley.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/Berkeley.imageset/Screenshot 2022-12-05 at 1.01.20 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/Loading Screen.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/Loading Screen.imageset/pngegg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/SplashConstrollerViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sight/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sightTests/second_sightTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sightUITests/second_sightUITests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/second_sight/second_sightUITests/second_sightUITestsLaunchTests.swift" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,17 +47,24 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IKdZ7BQnLXMyb7Or37muEGGf4C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/mrsca/Documents/UC Berkeley Coursework/W207 Machine Learning/w207_team_project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mrsca/Documents/UC Berkeley Coursework/W207 Machine Learning/w207_team_project&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/final/prelim" />
+      <recent name="$PROJECT_DIR$/baseline-experimenting/camille-junk" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
