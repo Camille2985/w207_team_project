@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac428e51-3c8f-47cc-a9b2-5b1e9f55eb01" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/w207_team_project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseline-experimenting/IAM_EDA_Lisa_V3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseline-experimenting/camille-junk/.ipynb_checkpoints/Initial ETL-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseline-experimenting/camille-junk/Baseline-Pycaret.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseline-experimenting/camille-junk/Initial ETL.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseline-experimenting/camille-junk/Kaggle_codes.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseline-experimenting/camille-junk/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseline-experimenting/camille-junk/Test TensorFlow Install.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseline-experimenting/camille-junk/logs.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseline-experimenting/camille-junk/project_2_V2_LW.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/IAM_OCR_Final_Model_Wu_Church.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/prelim/Final Project.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/prelim/IAM_OCR_Final_Model-Lisa-11-20.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/prelim/IAM_OCR_Final_Model_v2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/prelim/Optuna Experiments.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/assets/berkeley_logo.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/assets/circuit1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/assets/circuit2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile_application/iphone_app/assets/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slides/W207-Final Presentation.pdf" beforeDir="false" />
-    </list>
+    <list default="true" id="ac428e51-3c8f-47cc-a9b2-5b1e9f55eb01" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
